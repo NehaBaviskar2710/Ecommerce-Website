@@ -1,5 +1,4 @@
 # Kalakriti Craetions
- # Kalakriti Creation
 
 Kalakriti Creation is a web application designed to promote handcrafted products and traditional art forms. The project emphasizes cultural heritage and aims to empower artisans by providing a platform to showcase their creations.
 
